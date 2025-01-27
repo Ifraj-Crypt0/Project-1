@@ -114,11 +114,14 @@ background-color: #ffffff; padding-top: 48px; padding-bottom: 48px; padding-left
 
    #y{display: flex; justify-content: left;}
 
-#z{margin-left: -300px;}
+#z{margin-left: -268px; width: 744px; height: 290px;}
 
-    .column{margin-left: 24px; width: 744px; }
+    .column{margin-left: 24px; width: 744px;}
 
     .quotebox .btn{width: 139px; height: 48px; margin-top: 30px;}
 
 
- 
+ #prime{display: flex;}
+
+ #zprime{margin-right: 32px;}
+
